@@ -1,4 +1,4 @@
-# Emil
+# Hi! I'm Emil 👋
 
 **DevOps / SRE** · Cloud-native Infrastructure
 
