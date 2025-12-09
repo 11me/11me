@@ -1,6 +1,7 @@
 # Emil
 
-**DevOps / SRE** · Cloud-native Infrastructure · Trading Systems
+**DevOps / SRE** · Cloud-native Infrastructure
+
 📍 Serbia · 🌍 Open to remote & relocation
 
 ---
@@ -27,4 +28,5 @@ Langs & Tools   Go · Python · Bash · Helm
 ---
 
 🤝 Open to DevOps/SRE & platform engineering roles
+
 📩 [@limerc](https://t.me/limerc) · [limerc@proton.me](mailto:limerc@proton.me)
