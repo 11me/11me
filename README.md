@@ -7,7 +7,7 @@
 
 ### 🔧 Tech Stack
 
-```
+```text
 Core            Kubernetes · Docker · Linux
 IaC & GitOps    Terraform · Terragrunt · FluxCD · Kustomize
 CI/CD           GitHub Actions · GitLab CI
@@ -17,13 +17,14 @@ Langs & Tools   Go · Python · Bash · Helm
 
 ---
 
-### 🎯 Current Focus
+### 🚀 What I work on
 
-- 🧭 GitOps-driven Kubernetes for production
-- 📈 Observability, SLOs & incident response
-- 🤖 Trading bots & market data infra
+* 🧭 Kubernetes & GitOps platforms for SaaS / B2B / fintech products
+* 🧩 Platform engineering: internal developer tooling, CI/CD & self-service infra
+* 📈 Observability & SRE: SLOs, incident response, capacity planning
+* 🤖 On the side: trading bots & market data experiments
 
 ---
 
-🤝 Open to DevOps/SRE & trading infra projects
+🤝 Open to DevOps/SRE & platform engineering roles
 📩 [@limerc](https://t.me/limerc) · [limerc@proton.me](mailto:limerc@proton.me)
