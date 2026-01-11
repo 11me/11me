@@ -26,7 +26,7 @@ GitOps platforms, Trading bots, AI Engineering
 
 - **[light-session](https://github.com/11me/light-session)** — Firefox extension to keep ChatGPT fast by trimming DOM
 - **[PinStats](https://github.com/11me/PinStats)** — Chrome Extension for hidden Pinterest engagement metrics
-- **[claude-skillbox](https://github.com/11me/claude-skillbox)** — Claude Code skills marketplace
+- **[skillbox](https://github.com/11me/skillbox)** — Universal AI agent skills for Go, Kubernetes, GitOps
 - **[idea-miner](https://github.com/11me/idea-miner)** — AI agent for mining micro-product ideas
 
 ---
