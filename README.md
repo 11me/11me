@@ -10,7 +10,7 @@ $ stack
 Kubernetes · Terraform · FluxCD · Go
 
 $ now
-GitOps platforms, Trading bots, AI Engineering
+Context8 (market data API), Trading bots, AI Engineering
 ```
 
 ### Tech Stack
@@ -22,7 +22,14 @@ GitOps platforms, Trading bots, AI Engineering
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Featured Projects
+### Building
+
+**[Context8](https://context8.markets)** — Agent-first market data API
+
+Unified crypto derivatives, macro indicators & sentiment in a single normalized endpoint.
+Designed for AI agents — deterministic responses, snapshot IDs, freshness metadata.
+
+### Other Projects
 
 - **[light-session](https://github.com/11me/light-session)** — Firefox extension to keep ChatGPT fast by trimming DOM
 - **[PinStats](https://github.com/11me/PinStats)** — Chrome Extension for hidden Pinterest engagement metrics
